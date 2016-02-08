@@ -1,0 +1,31 @@
+{
+  
+  "name": "fbi-intelligence-disciplines",
+  "version": "1.0.0",
+  "description": "Intelligence gathering disciplines used by the US Federal Bureau of Investigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeke/fbi-intelligence-disciplines.git"
+  },
+  "keywords": [
+    "FBI",
+    "data",
+    "GIS",
+    "signals",
+    "intelligence",
+    "communication",
+    "surveillance",
+    "military",
+    ""
+  ],
+  "author": "zeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/fbi-intelligence-disciplines/issues"
+  },
+  "homepage": "https://github.com/zeke/fbi-intelligence-disciplines#readme"
+}
